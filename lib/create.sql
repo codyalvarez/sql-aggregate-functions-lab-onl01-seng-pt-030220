@@ -6,4 +6,3 @@ CREATE TABLE students
     tardies INTEGER);
 
 SELECT MAX(highest_student_gpa)
-
