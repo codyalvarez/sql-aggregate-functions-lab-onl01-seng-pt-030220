@@ -5,3 +5,5 @@ CREATE TABLE students
     gpa FLOAT,
     tardies INTEGER);
 
+SELECT MAX(highest_student_gpa)
+
